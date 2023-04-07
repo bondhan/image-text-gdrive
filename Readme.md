@@ -37,6 +37,7 @@ How to run:
 ### Troubleshoot
 - If you cannot access the gdrive folder you need to delete the file `StoredCredential` in folder `tokens` and reauthenticate
 - Make sure your internet connection is stable
+- use library `itext7-core` version `7.1.5` if not the chinese font will not work
 
 ### Creating google credential to access google drive
 To get a Google credential file, you'll need to create a new project in the Google Cloud Console and enable the Google Drive API for the project. Here are the steps to create and download the credentials file:
