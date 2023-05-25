@@ -1,4 +1,7 @@
 ## Image Analyzer GDrive
+
+This is for sawitpro technical test.
+
 How to run:
 1. Create Google credentials, download the json file and copy to `src/main/resource/credentials.json` (see below)
 2. Register to [ocr.space](https://ocr.space/OCRAPI) to get your `apiKey` and update the `config.properties` file with `apiKey`
