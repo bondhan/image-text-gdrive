@@ -2,6 +2,8 @@
 
 This is for sawitpro technical test.
 
+Task is: Given some images, extract the words and group them into 2, english and chinese. For some english word colored them in blue. Save the result in PDF!
+
 How to run:
 1. Create Google credentials, download the json file and copy to `src/main/resource/credentials.json` (see below)
 2. Register to [ocr.space](https://ocr.space/OCRAPI) to get your `apiKey` and update the `config.properties` file with `apiKey`
